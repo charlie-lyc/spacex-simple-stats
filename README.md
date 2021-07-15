@@ -1,4 +1,4 @@
-# spacex-simple-stats toy project
+# spacex-simple-stats Toy Project
 
 ### BE : GraphQL-Express
 ### FE : Apollo-React
