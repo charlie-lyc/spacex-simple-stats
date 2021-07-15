@@ -1,3 +1,5 @@
-# spacex-simple-stats
-GraphQL-Express(BE)/Apollo-React(FE)
-SpaecX API from https://github.com/r-spacex/SpaceX-API
+# spacex-simple-stats toy project
+
+### BE : GraphQL-Express(BE)
+### FE : Apollo-React
+### SpaecX API : https://github.com/r-spacex/SpaceX-API
